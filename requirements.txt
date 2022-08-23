@@ -1,0 +1,4 @@
+aiogram==2.22.1
+openpyxl==3.0.10
+pandas==1.4.3
+pony==0.7.16
