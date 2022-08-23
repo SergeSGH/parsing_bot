@@ -180,4 +180,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-parsing_data
+parsing_data.sqlite3
+
+file*
+
+bot_token
